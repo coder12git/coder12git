@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hey, This is Suruchi Kumari 👋</h1>
+
+<p align="center">Web Developer and DevOps enthusiast🚀</p>
+
+<p> The badges I got while contributing to Layer5-</p>
+<a align="center" href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.svg" alt = "Hacktoberfest Contributor" /></a >
 
 
 ## Connect with me:
