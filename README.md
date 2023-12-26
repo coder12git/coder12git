@@ -2,6 +2,18 @@
 
 <p align="center">Web Developer and DevOps enthusiast🚀</p>
 
+
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder12git&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder12git&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coder12git&theme=aura_dark)
+
+</div>
+
+
+
+
 <p> The badges I got while contributing to Layer5-</p>
 <a align="center" href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" /></a >
 <a href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges">
