@@ -11,19 +11,16 @@
 
 </div>
 
+
 <div align="center">
     
-<a align="center" href="https://www.credly.com/badges/1a9d221a-0731-44b6-b4d7-567fd003f775/public_url">![fundamentals-for-kyverno (1)](https://github.com/coder12git/coder12git/assets/108334168/2b594de8-d012-4da3-a247-735b5ee3b8c5)
-</a>
-
-</div>
-
-
-<p> The badges I got while contributing to Layer5-</p>
-<a align="center" href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" /></a >
+<a href="https://www.credly.com/badges/1a9d221a-0731-44b6-b4d7-567fd003f775/public_url">![fundamentals-for-kyverno (4)](https://github.com/coder12git/coder12git/assets/108334168/45c36730-7274-4eed-9dcf-c0b8fad226d7)</a>
+<a href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" /></a >
 <a href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
 </a >
+
+</div>
 
 <div>
     
