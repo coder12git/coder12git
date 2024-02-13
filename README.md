@@ -38,3 +38,8 @@
 <a href = "https://twitter.com/Suruchi18591098"><img src="https://img.shields.io/badge/-@Suruchi Kumari-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 
 </p>
+
+<p align="center">
+   <strong> Check out my Resume here -> https://drive.google.com/file/d/1Z1Zwo4oB4wmLbSDQu6rHxljD5O9yr0uL/view?usp=sharing </strong>
+</p>
+
