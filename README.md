@@ -40,6 +40,8 @@
 </p>
 
 <p align="center">
+    <strong>Kubernetes Contributor Card -> https://contribcard.clotributor.dev/coder12git</strong>
+    <br>
    <strong> Check out my Resume here -> https://drive.google.com/file/d/1Z1Zwo4oB4wmLbSDQu6rHxljD5O9yr0uL/view?usp=sharing </strong>
 </p>
 
