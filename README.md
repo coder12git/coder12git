@@ -14,7 +14,7 @@
 
 <div align="center">
     
-<a href="https://www.credly.com/badges/1a9d221a-0731-44b6-b4d7-567fd003f775/public_url">![fundamentals-for-kyverno (4)](https://github.com/coder12git/coder12git/assets/108334168/45c36730-7274-4eed-9dcf-c0b8fad226d7)</a>
+<a href="https://www.credly.com/badges/037725bc-42fd-4b79-acd7-bf54613d4cd0/public_url">![kyverno-contributor](https://github.com/coder12git/coder12git/assets/108334168/8e193bcd-4fc1-44a6-8fe4-6073c9ac2452)</a>4  <a href="https://www.credly.com/badges/1a9d221a-0731-44b6-b4d7-567fd003f775/public_url">![fundamentals-for-kyverno (4)](https://github.com/coder12git/coder12git/assets/108334168/45c36730-7274-4eed-9dcf-c0b8fad226d7)</a>
 <a href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges"><img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/hacktoberfest-contributor/hacktoberfest-contributor.png" alt = "Hacktoberfest Contributor" /></a >
 <a href= "https://meshery.layer5.io/user/1884fea6-0450-4404-9560-e0383f0e8cd7?tab=badges">
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
@@ -42,6 +42,6 @@
 <p align="center">
     <strong>Kubernetes Contributor Card -> https://contribcard.clotributor.dev/coder12git</strong>
     <br>
-   <strong> Check out my Resume here -> https://drive.google.com/file/d/1Z1Zwo4oB4wmLbSDQu6rHxljD5O9yr0uL/view?usp=sharing </strong>
+   <strong> Check out my Resume here -> https://drive.google.com/file/d/1WnOsLWdsVdbcJhd3PLDYB52Q1fIRrAjS/view?usp=sharing </strong>
 </p>
 
